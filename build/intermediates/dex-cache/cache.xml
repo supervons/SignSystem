@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_4546d8f2fef931a67f02f03511d30a1092e0c1fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_383d5038bde0f7b535b36911ed2c040c94ba15de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_91c42b608ff3770eee44aa0d532613727c0943f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_58a31f632e75d77b7d926c8f22c75e9effce4f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_7c06e98797c25092d9c9ea579b3de54e39328cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_339c8c55dde9ae35fc79d2c30444e908ce44acfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_cb08b04e401900991b472b8b78c2f6b1e75ededb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_3747a364fdd3b4ddd4fa02ff6ab8326bafadbe22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_9cec722f9039d9c700d38a309a8ddf7bc94f251a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_2d235bd9534af6cb9d9525d5a36bac2f7fd43cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_590f7d5faa448c0e8f7386743c14f74312a11645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_56262433a332b2fe1e7c5dbe2314fc1cb5d5a14b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edz/Developer/SignSystem/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/edz/Developer/SignSystem/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_276220aed795c77272ade7fcc18711089b45c1d0.jar" />
+    </item>
+
+</items>
